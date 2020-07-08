@@ -10,3 +10,5 @@ Recommendation engines provide online business with the opportunity to have such
 
 Recommendation engines brings the positivity for  reviewers and fostering sales growth for Brands in Textile,Leatherindustry etc...
 
+
+DataSet Considered for the above app.Link is available here https://drive.google.com/file/d/1Tt2W5O6gFtUt6Q8MO7Eo9k33yjCc3K4X/view?usp=sharing
