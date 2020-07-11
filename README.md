@@ -16,3 +16,9 @@ Recommendation engines brings the positivity for  reviewers and fostering sales 
 
 
 DataSet Considered for the above app.Link is available here https://drive.google.com/file/d/1Tt2W5O6gFtUt6Q8MO7Eo9k33yjCc3K4X/view?usp=sharing
+
+
+Steps to run :
+
+cd Prodigy Download glove model and save as glove.6B.300d.txt flask run --host=0.0.0.0 npm ng serve --port=4001 --host=0.0.0.0 npm install npm starts
+
